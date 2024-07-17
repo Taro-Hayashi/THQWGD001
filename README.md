@@ -12,6 +12,5 @@ Printing in the orientation of the image is recommended.
 |Base|||
 |Wheel Encoder||11mm|
 |M2 screws|||
-|M2 screws|||
 |M2 nuts|||
 
