@@ -7,9 +7,9 @@ Printing in the orientation of the image is recommended.
 
 ||||
 |-|-|-|
-|THQWGD001 Shaft|||
-|THQWGD001 Wheel|||
-|THQWGD001 Base|||
+|Shaft|||
+|Wheel|||
+|Base|||
 |Wheel Encoder||11mm|
 |M2 screws|||
 |M2 screws|||
