@@ -37,7 +37,7 @@ I have confirmed the output with Bambu's 0.02mm nozzle.
 
 # Wheel for Killer Whale
 
-#Required
+# Required
 ||||
 |-|-|-|
 |Shaft|||
