@@ -5,10 +5,10 @@ I have confirmed the output with Bambu's 0.02mm nozzle.
 ## Required
 ||||
 |-|-|-|
-|THQWGD001 Shaft|||
-|THQWGD001 Wheel|||
-|THQWGD001 Base|||
-|Wheel Encoder||11mm|
+|THQWGD001 Shaft|1||
+|THQWGD001 Wheel|1||
+|THQWGD001 Base|1||
+|Wheel Encoder|1|11mm|
 |M2 screws|2|5mm or 6mm|
 |M2 nuts|2||
 
