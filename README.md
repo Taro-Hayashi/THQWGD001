@@ -13,6 +13,8 @@ I have confirmed the output with Bambu's 0.02mm nozzle.
 |M2 nuts|2||
 
 ## Optional
+|||
+|-|-|
 |THQWGD001 cover|1||
 |Board sample|1||
 
