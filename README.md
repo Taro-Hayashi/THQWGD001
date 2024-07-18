@@ -42,8 +42,8 @@ I have confirmed the output with Bambu's 0.02mm nozzle.
 # Required
 ||||
 |-|-|-|
-|Shaft|||
-|Wheel|||
+|Shaft|1||
+|Wheel|1||
 |M2 screws|3|
 |M2 Spacer|1|8mm|
 |M2 Spacers|2|D = 3.3, H = more than 12mm|
