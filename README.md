@@ -16,11 +16,11 @@ I have confirmed the output with Bambu's 0.02mm nozzle.
 |THQWGD001 cover|1||
 |Board sample|1||
 
-## Download Footprint
-- 
+## KiCad footprint and symbol
+- https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad
 
-## Download STL
-- Github(here) 
+## STL
+- Github(here) https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
 - MAker World 
 - Printables 
 - Thingiverse 
@@ -46,11 +46,11 @@ I have confirmed the output with Bambu's 0.02mm nozzle.
 |M2 Spacer|1|8mm|
 |M2 Spacers|2|D = 3.3, H = more than 12mm|
 
-## Download Footprint
-- 
+## KiCad footprint and symbol
+- https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad
 
-## Download STL
-- Github(here) 
+## STL
+- Github(here) https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
 - MAker World 
 - Printables 
 - Thingiverse 
