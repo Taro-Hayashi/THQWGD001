@@ -18,7 +18,7 @@ I have confirmed the output with Bambu's 0.02mm nozzle.
 |THQWGD001 cover|1||
 |Board sample|1||
 
-## KiCad footprint and symbol
+## KiCad footprint
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad
 
 ## STL
@@ -48,7 +48,7 @@ I have confirmed the output with Bambu's 0.02mm nozzle.
 |M2 Spacer|1|8mm|
 |M2 Spacers|2|D = 3.3, H = more than 12mm|
 
-## KiCad footprint and symbol
+## KiCad footprint
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad
 
 ## STL
