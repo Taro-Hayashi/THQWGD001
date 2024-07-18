@@ -1,6 +1,7 @@
-# 1U Wheel Encoder THQWGD001
+> [!NOTE]
+> I have confirmed the output with Bambu's 0.02mm nozzle.
 
-I have confirmed the output with Bambu's 0.02mm nozzle.
+# 1U Wheel Encoder THQWGD001
 
 ## Required
 ||||
