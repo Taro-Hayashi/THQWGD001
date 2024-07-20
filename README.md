@@ -46,10 +46,11 @@
 - CREALITY CLOUD 
 
 
-![](img/opt.jpg)
+![](img/tq_p.jpg)
 ![](img/cont.jpg)
-![](img/tq_o.jpg)
+![](img/opt.jpg)
 
+![](img/3d.jpg)
 
 
 
@@ -84,5 +85,4 @@
 - CREALITY CLOUD 
 
 ## 
-![](img/3d.jpg)
 ![](img/wfkw_p.jpg)
