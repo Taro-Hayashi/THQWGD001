@@ -1,5 +1,6 @@
 > [!NOTE]
-> I have confirmed the output with Bambu's 0.02mm nozzle.
+> Work in progress.
+> I have confirmed the output with Bambu's PLA Basic & 0.02mm nozzle.
 
 # 1U Wheel Encoder THQWGD001
 
