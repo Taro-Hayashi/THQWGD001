@@ -21,6 +21,7 @@
 |Board sample|1||
 
 ## KiCad footprint
+## Board for evaluation
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad
 
 ## STL
@@ -37,7 +38,6 @@
 - CREALITY CLOUD 
 
 
-## Board for evaluation
 
 
 # Wheel for Killer Whale
