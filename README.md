@@ -21,6 +21,7 @@
 |M2 nuts|2||
 
 ## Optional
+![](img/opt.jpg)
 |||
 |-|-|
 |THQWGD001 cover|1||
@@ -31,6 +32,7 @@
 
 ### Sample board
 
+![](img/sample.png)
 
 ## STL
 - Github(here) https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
@@ -50,6 +52,7 @@
 
 # Wheel for Killer Whale
 
+![](img/wfkw_o.jpg)
 # Required
 ||||
 |-|-|-|
@@ -75,3 +78,7 @@
 - Thangs 
 - CREALITY CLOUD 
 
+
+![](img/tq_o.jpg)
+![](img/3d.jpg)
+![](img/wfkw_p.jpg)
