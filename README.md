@@ -10,7 +10,6 @@
 
 ## Required
 
-![](img/cont.jpg)
 ||||
 |-|-|-|
 |THQWGD001 Shaft|1||
@@ -21,7 +20,6 @@
 |M2 nuts|2||
 
 ## Optional
-![](img/opt.jpg)
 |||
 |-|-|
 |THQWGD001 cover|1||
@@ -79,6 +77,8 @@
 - CREALITY CLOUD 
 
 ## 
+![](img/opt.jpg)
+![](img/cont.jpg)
 ![](img/tq_o.jpg)
 ![](img/3d.jpg)
 ![](img/wfkw_p.jpg)
