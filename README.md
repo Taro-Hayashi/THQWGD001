@@ -46,7 +46,14 @@
 - CREALITY CLOUD 
 
 
+![](img/opt.jpg)
+![](img/cont.jpg)
+![](img/tq_o.jpg)
 
+
+
+
+    
 
 # Wheel for Killer Whale
 
@@ -77,8 +84,5 @@
 - CREALITY CLOUD 
 
 ## 
-![](img/opt.jpg)
-![](img/cont.jpg)
-![](img/tq_o.jpg)
 ![](img/3d.jpg)
 ![](img/wfkw_p.jpg)
