@@ -30,7 +30,7 @@
 ## KiCad footprint
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad
 
-### Sample board
+### PCB Sample
 
 ![](img/sample.png)
 
