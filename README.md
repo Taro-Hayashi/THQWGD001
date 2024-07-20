@@ -1,10 +1,16 @@
+
+
 > [!NOTE]
 > Work in progress.  
 > I have confirmed the output with Bambu's PLA Basic & 0.02mm nozzle.
 
 # 1U Wheel Encoder THQWGD001
 
+![](img/tq_o.jpg)
+
 ## Required
+
+![](img/cont.jpg)
 ||||
 |-|-|-|
 |THQWGD001 Shaft|1||
