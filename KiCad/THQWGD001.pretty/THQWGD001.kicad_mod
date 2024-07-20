@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "Encoder_Wheel"
+	(property "Value" "THQWGD001"
 		(at 0 10.89 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -267,18 +267,6 @@
 		(fill none)
 		(layer "Dwgs.User")
 		(uuid "f0b73858-d0dd-4327-b427-d3ecb62789bc")
-	)
-	(fp_text user "${REFERENCE}"
-		(at 32 23.125 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "1ac3ce36-67ee-4042-982b-f8af32b1407a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
 	)
 	(pad "A" thru_hole roundrect
 		(at -4.9 2.475 90)

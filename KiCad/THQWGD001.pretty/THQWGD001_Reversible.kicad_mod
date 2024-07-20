@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 9.33 0)
+		(at -0.05 5.7 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
@@ -16,8 +16,8 @@
 			)
 		)
 	)
-	(property "Value" "Encoder_Wheel"
-		(at 0 10.89 0)
+	(property "Value" "THQWGD001"
+		(at 0.025 11 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -30,7 +30,7 @@
 		)
 	)
 	(property "Footprint" ""
-		(at 12.2 17.3 0)
+		(at 0.225 15.4 0)
 		(layer "F.Fab")
 		(hide yes)
 		(uuid "d34b1195-93dd-4c45-bfc7-b1ac9da29307")
@@ -41,8 +41,8 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
-		(at 12.2 17.3 0)
+	(property "Datasheet" "https://github.com/Taro-Hayashi/THQWGD001"
+		(at -0.05 13.575 0)
 		(layer "F.Fab")
 		(hide yes)
 		(uuid "34c954ec-3450-4565-a86b-8777721cafa3")
@@ -478,18 +478,6 @@
 					(xy -6.239259 -0.842552) (xy -6.224494 -0.841846) (xy -6.218876 -0.847219) (xy -6.058897 -0.847219)
 					(xy -6.053524 -0.852592) (xy -5.845673 -0.852592) (xy -5.807327 -0.814246)
 				)
-			)
-		)
-	)
-	(fp_text user "${REFERENCE}"
-		(at 32 23.125 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "1ac3ce36-67ee-4042-982b-f8af32b1407a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
 			)
 		)
 	)

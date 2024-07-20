@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 9.33 0)
+		(at 9.175 9.3 90)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
@@ -16,8 +16,8 @@
 			)
 		)
 	)
-	(property "Value" "Encoder_Wheel"
-		(at 0 10.89 0)
+	(property "Value" "Wheel for Killer Whale"
+		(at 0.05 23.425 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -41,8 +41,8 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
-		(at 0 0 0)
+	(property "Datasheet" "https://github.com/Taro-Hayashi/THQWGD001"
+		(at 0 25.5 0)
 		(layer "F.Fab")
 		(hide yes)
 		(uuid "6d677493-be20-4974-a3f7-65bac965f7e0")
@@ -221,46 +221,6 @@
 		(uuid "18d6552c-ee29-4cef-b859-74413407a4b1")
 	)
 	(fp_line
-		(start -8.407107 6.525)
-		(end -8.407107 16.907107)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "3e7e9f7a-211e-4b09-87b0-b8524bebbe25")
-	)
-	(fp_line
-		(start -7.407107 17.907107)
-		(end 6.592893 17.907107)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "8553f567-6bcc-4a7e-bd96-1807726e4117")
-	)
-	(fp_line
-		(start 6.592893 5.525)
-		(end -7.407107 5.525)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "515b4d9c-a8cc-456e-93e2-bb31a22905fb")
-	)
-	(fp_line
-		(start 7.592893 16.907107)
-		(end 7.592893 6.525)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "2f230511-4374-4b18-b0fe-d0b917ff69ad")
-	)
-	(fp_line
 		(start 12 7)
 		(end 12 13)
 		(stroke
@@ -313,50 +273,6 @@
 		)
 		(layer "Dwgs.User")
 		(uuid "a9d43531-e6ef-44cd-a6c6-564d99cfd50f")
-	)
-	(fp_arc
-		(start -8.407107 6.525)
-		(mid -8.114214 5.817893)
-		(end -7.407107 5.525)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "3438bd1c-4fbd-441d-b04d-1462db56c594")
-	)
-	(fp_arc
-		(start -7.407107 17.907107)
-		(mid -8.114214 17.614214)
-		(end -8.407107 16.907107)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "6c1247b5-a005-4319-8e1d-8ed15727804b")
-	)
-	(fp_arc
-		(start 6.592893 5.525)
-		(mid 7.300004 5.817891)
-		(end 7.592893 6.525)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "887d8301-b32d-4437-ad1c-12715050949f")
-	)
-	(fp_arc
-		(start 7.592893 16.907107)
-		(mid 7.299994 17.614208)
-		(end 6.592893 17.907107)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "109f6b41-bb00-40f6-b76c-d0857b692916")
 	)
 	(fp_arc
 		(start 11 6)
@@ -412,6 +328,90 @@
 		(fill none)
 		(layer "Dwgs.User")
 		(uuid "74312547-acb2-43f2-9e7f-b0c9a8aa8f9e")
+	)
+	(fp_line
+		(start -8.407107 6.525)
+		(end -8.407107 16.907107)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3e7e9f7a-211e-4b09-87b0-b8524bebbe25")
+	)
+	(fp_line
+		(start -7.407107 17.907107)
+		(end 6.592893 17.907107)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8553f567-6bcc-4a7e-bd96-1807726e4117")
+	)
+	(fp_line
+		(start 6.592893 5.525)
+		(end -7.407107 5.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "515b4d9c-a8cc-456e-93e2-bb31a22905fb")
+	)
+	(fp_line
+		(start 7.592893 16.907107)
+		(end 7.592893 6.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2f230511-4374-4b18-b0fe-d0b917ff69ad")
+	)
+	(fp_arc
+		(start -8.407107 6.525)
+		(mid -8.114214 5.817893)
+		(end -7.407107 5.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3438bd1c-4fbd-441d-b04d-1462db56c594")
+	)
+	(fp_arc
+		(start -7.407107 17.907107)
+		(mid -8.114214 17.614214)
+		(end -8.407107 16.907107)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6c1247b5-a005-4319-8e1d-8ed15727804b")
+	)
+	(fp_arc
+		(start 6.592893 5.525)
+		(mid 7.300004 5.817891)
+		(end 7.592893 6.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "887d8301-b32d-4437-ad1c-12715050949f")
+	)
+	(fp_arc
+		(start 7.592893 16.907107)
+		(mid 7.299994 17.614208)
+		(end 6.592893 17.907107)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "109f6b41-bb00-40f6-b76c-d0857b692916")
 	)
 	(fp_text user "↑Pin"
 		(at 1.9812 1.27 0)
@@ -571,18 +571,6 @@
 					(xy 0.86203 0.571702) (xy 0.831142 0.613089) (xy 0.817552 0.66074) (xy 0.816846 0.675505) (xy 0.822219 0.681123)
 					(xy 0.822219 0.841102) (xy 0.827592 0.846475) (xy 0.827592 1.054326) (xy 0.789246 1.092672)
 				)
-			)
-		)
-	)
-	(fp_text user "${REFERENCE}"
-		(at 0 23.55 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "8ddcb347-fe9c-4d37-92bd-d6ad14218c1f")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
 			)
 		)
 	)
