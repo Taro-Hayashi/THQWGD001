@@ -21,8 +21,10 @@
 |Board sample|1||
 
 ## KiCad footprint
-## Board for evaluation
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad
+
+### Board for evaluation
+
 
 ## STL
 - Github(here) https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
