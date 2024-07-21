@@ -47,7 +47,7 @@
 |Bambu Lab P1S|0.2 mm|0.10mm Standard @BBL P1P 0.2 nozzle|Sanding to the shaft is required.|
 |Bambu Lab P1S|0.4 mm|0.12mm Fine @BBL X1C|Sanding to the shaft and support marks is required.|
 
-> ![NOTE]
+> [!NOTE]
 > Slowing down the printing speed will print more nicely.
   
 ![](img/tq_p.jpg)
