@@ -49,8 +49,10 @@
 ![](img/tq_p.jpg)
 ![](img/cont.jpg)
 ![](img/opt.jpg)
-
 ![](img/3d.jpg)
+![](img/x.png)
+![](img/y.png)
+![](img/z.png)
 
 
 
