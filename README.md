@@ -36,7 +36,7 @@
 - Maker World https://makerworld.com/en/models/550355#profileId-468693
 - Printables https://www.printables.com/model/949835-tqwgd001
 - Thingiverse https://www.thingiverse.com/thing:6703886
-- Cults 
+- Cults https://cults3d.com/en/3d-model/gadget/1u-wheel-encoder-thqwgd001-tarohayashi
 - Instructables 
 - CGTrader 
 - Gumroad 
