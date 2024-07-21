@@ -33,7 +33,7 @@
 
 ## STL
 - Github(here) https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
-- Maker World 
+- Maker World https://makerworld.com/en/models/550355#profileId-468693
 - Printables 
 - Thingiverse 
 - Cult3D 
@@ -88,7 +88,7 @@
 
 ## STL
 - Github(here) https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
-- MAker World 
+- Maker World https://makerworld.com/en/models/550322#profileId-468657
 - Printables 
 - Thingiverse 
 - Cult3D 
