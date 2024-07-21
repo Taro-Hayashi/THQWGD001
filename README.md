@@ -19,6 +19,7 @@
 |-|-|
 |THQWGD001 cover|1||
 |Board sample|1||
+|Board sample (no screw needed)|1||
 
 ## KiCad footprint
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad
