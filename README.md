@@ -1,9 +1,4 @@
 
-
-> [!NOTE]
-> Work in progress.  
-> I have confirmed the output with Bambu's PLA Basic & 0.02mm nozzle.
-
 # 1U Wheel Encoder THQWGD001
 
 ![](img/tq_o.jpg)
@@ -24,6 +19,10 @@
 |-|-|
 |THQWGD001 cover|1||
 |Board sample|1||
+|Board sample (no screw needed)|1||
+
+> [!TIP]
+> Rotation is not smooth when no encoder is used.
 
 ## KiCad footprint
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad
@@ -34,7 +33,7 @@
 
 ## STL
 - Github(here) https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
-- MAker World 
+- Maker World 
 - Printables 
 - Thingiverse 
 - Cult3D 
@@ -43,9 +42,23 @@
 - CGTrader 
 - Gumroad 
 - Thangs 
-- CREALITY CLOUD 
+- CREALITY CLOUD
 
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Taro-Hayashi/THQWGD001">THQWGD001</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://x.com/w_vwbw">Taro Hayashi</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+    
 
+  
+### Confirmed settings
+
+|Printer|Nozzle|Preset||
+|-|-|-|-|
+|Bambu Lab P1S|0.2 mm|0.10mm Standard @BBL P1P 0.2 nozzle|Sanding to the shaft is required.|
+|Bambu Lab P1S|0.4 mm|0.12mm Fine @BBL X1C|Sanding to the shaft and support marks is required.|
+
+> [!NOTE]
+> Shaft should be printed horizontally for durability
+> Slowing down the printing speed will print more nicely.
+  
 ![](img/tq_p.jpg)
 ![](img/cont.jpg)
 ![](img/opt.jpg)
@@ -53,10 +66,9 @@
 ![](img/x.png)
 ![](img/y.png)
 ![](img/z.png)
+![](img/h.png)
 
 
-
-    
 
 # Wheel for Killer Whale
 
@@ -66,6 +78,7 @@
 |-|-|-|
 |Shaft|1||
 |Wheel|1||
+|Wheel Encoder|1|11mm|
 |M2 screws|3|
 |M2 Spacer|1|8mm|
 |M2 Spacers|2|D = 3.3, H = more than 12mm|
@@ -84,7 +97,8 @@
 - CGTrader 
 - Gumroad 
 - Thangs 
-- CREALITY CLOUD 
+- CREALITY CLOUD
+  
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Taro-Hayashi/THQWGD001">Wheel for Killer Whale</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://x.com/w_vwbw">Taro Hayashi</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
-## 
 ![](img/wfkw_p.jpg)
