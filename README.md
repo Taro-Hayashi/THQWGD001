@@ -37,7 +37,6 @@
 - Printables https://www.printables.com/model/949835-tqwgd001
 - Thingiverse https://www.thingiverse.com/thing:6703886
 - Cults https://cults3d.com/en/3d-model/gadget/1u-wheel-encoder-thqwgd001-tarohayashi
-- Instructables 
 - CGTrader 
 - Gumroad 
 - Thangs 
@@ -92,7 +91,6 @@
 - Thingiverse https://www.thingiverse.com/thing:6703881
 - Cults https://cults3d.com/en/3d-model/gadget/mouse-wheel-tarohayashi
 - Instructables 
-- CGTrader 
 - Gumroad 
 - Thangs 
 - CREALITY CLOUD
