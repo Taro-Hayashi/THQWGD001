@@ -34,7 +34,7 @@
 ## STL
 - Github(here) https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
 - Maker World https://makerworld.com/en/models/550355#profileId-468693
-- Printables 
+- Printables https://www.printables.com/model/949835-tqwgd001
 - Thingiverse 
 - Cult3D 
 - PrusaPrinters 
@@ -89,7 +89,7 @@
 ## STL
 - Github(here) https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
 - Maker World https://makerworld.com/en/models/550322#profileId-468657
-- Printables 
+- Printables https://www.printables.com/model/949831-mouse-wheel
 - Thingiverse 
 - Cult3D 
 - PrusaPrinters 
