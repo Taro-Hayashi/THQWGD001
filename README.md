@@ -1,9 +1,4 @@
 
-
-> [!NOTE]
-> Work in progress.  
-> I have confirmed the output with Bambu's PLA Basic & 0.02mm nozzle.
-
 # 1U Wheel Encoder THQWGD001
 
 ![](img/tq_o.jpg)
@@ -45,6 +40,9 @@
 - Thangs 
 - CREALITY CLOUD 
 
+> [!NOTE]
+> Work in progress.  
+> I have confirmed the output with Bambu's PLA Basic & 0.02mm nozzle.
 
 ![](img/tq_p.jpg)
 ![](img/cont.jpg)
