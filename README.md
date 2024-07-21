@@ -56,7 +56,7 @@
 |Bambu Lab P1S|0.4 mm|0.12mm Fine @BBL X1C|Sanding to the shaft and support marks is required.|
 
 > [!NOTE]
-> Shaft should be printed horizontally for durability
+> Shaft should be printed horizontally for durability.  
 > Slowing down the printing speed will print more nicely.
   
 ![](img/tq_p.jpg)
