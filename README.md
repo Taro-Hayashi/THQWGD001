@@ -67,6 +67,7 @@
 |-|-|-|
 |Shaft|1||
 |Wheel|1||
+|Wheel Encoder|1|11mm|
 |M2 screws|3|
 |M2 Spacer|1|8mm|
 |M2 Spacers|2|D = 3.3, H = more than 12mm|
