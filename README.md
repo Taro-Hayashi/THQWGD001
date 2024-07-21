@@ -38,11 +38,12 @@
 - CGTrader 
 - Gumroad 
 - Thangs 
-- CREALITY CLOUD 
-
-> [!NOTE]
-> Work in progress.  
-> I have confirmed the output with Bambu's PLA Basic & 0.02mm nozzle.
+- CREALITY CLOUD
+  
+|Printer|Nozzle|Preset||
+|-|-|-|-|
+|Bambu P1S|0.2 mm|0.10mm Standard @BBL P1P 0.2 nozzle|Sanding to the shaft is required.|
+|Bambu P1S|0.4 mm|0.12mm Fine @BBL X1C|Sanding to the support marks is required.|
 
 ![](img/tq_p.jpg)
 ![](img/cont.jpg)
