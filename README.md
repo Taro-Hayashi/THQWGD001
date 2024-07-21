@@ -36,8 +36,7 @@
 - Maker World https://makerworld.com/en/models/550355#profileId-468693
 - Printables https://www.printables.com/model/949835-tqwgd001
 - Thingiverse https://www.thingiverse.com/thing:6703886
-- Cult3D 
-- PrusaPrinters 
+- Cults 
 - Instructables 
 - CGTrader 
 - Gumroad 
@@ -91,8 +90,7 @@
 - Maker World https://makerworld.com/en/models/550322#profileId-468657
 - Printables https://www.printables.com/model/949831-mouse-wheel
 - Thingiverse https://www.thingiverse.com/thing:6703881
-- Cult3D 
-- PrusaPrinters 
+- Cults https://cults3d.com/en/3d-model/gadget/mouse-wheel-tarohayashi
 - Instructables 
 - CGTrader 
 - Gumroad 
