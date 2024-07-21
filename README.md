@@ -29,7 +29,7 @@
 
 ## STL
 - Github(here) https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
-- MAker World 
+- Maker World 
 - Printables 
 - Thingiverse 
 - Cult3D 
