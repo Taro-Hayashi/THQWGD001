@@ -35,7 +35,7 @@
 - Github(here) https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
 - Maker World https://makerworld.com/en/models/550355#profileId-468693
 - Printables https://www.printables.com/model/949835-tqwgd001
-- Thingiverse 
+- Thingiverse https://www.thingiverse.com/thing:6703886
 - Cult3D 
 - PrusaPrinters 
 - Instructables 
