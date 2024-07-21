@@ -90,7 +90,7 @@
 - Github(here) https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
 - Maker World https://makerworld.com/en/models/550322#profileId-468657
 - Printables https://www.printables.com/model/949831-mouse-wheel
-- Thingiverse 
+- Thingiverse https://www.thingiverse.com/thing:6703881
 - Cult3D 
 - PrusaPrinters 
 - Instructables 
