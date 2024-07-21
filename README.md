@@ -21,7 +21,7 @@
 |Board sample|1||
 |Board sample (no screw needed)|1||
 
-> [!TIPS]
+> [!TIP]
 > Rotation is not smooth when no encoder is used.
 
 ## KiCad footprint
