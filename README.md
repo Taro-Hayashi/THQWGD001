@@ -16,7 +16,7 @@
 ### Confirmed settings
 
 |Printer|Nozzle|Layer|
-|-|-|-|-|
+|-|-|-|
 |Bambu Lab P1S|0.2 mm|0.10mm|
 |Bambu Lab P1S|0.4 mm|0.20mm|
 
@@ -39,8 +39,8 @@
 ## Optional
 |||
 |-|-|
-|Board sample|1||
-|Board sample (no screw needed)|1||
+|3DP Board sample|1||
+|3DP Board sample (no screw needed)|1||
 
 > [!TIP]
 > Rotation is not smooth when no encoder is used.
@@ -64,16 +64,17 @@ code
 
 ### Case
 - Github https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
-![](img/case.png)
+  
+![](img/case.jpg)
 
 ### Photos
 ![](img/tq_p.jpg)
 ![](img/cont.jpg)
 ![](img/opt.jpg)
 ![](img/3d.jpg)
-![](img/cases.png)
-![](img/caseb.png)
-![](img/mcu.png)
+![](img/cases.jpg)
+![](img/caseb.jpg)
+![](img/mcu.jpg)
 
 ![](img/x.png)
 ![](img/y.png)
