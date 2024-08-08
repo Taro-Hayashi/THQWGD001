@@ -55,7 +55,7 @@ Firmware
 - https://github.com/Taro-Hayashi/THQWGD001/releases/download/1.1/tarohayashi_thqwgd001_rp2040zero_vial.uf2
 
 > [!NOTE]
-> When using RP2040-Zero, pin headers and pin sockets must be at least 3.5 mm high.
+> When using RP2040-Zero, pin headers or pin sockets must be at least 3.5 mm high.
 
 code
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/thqwgd001
