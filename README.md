@@ -64,16 +64,16 @@ code
 
 ### Case
 - Github https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
-![](img/case.png)
+![](img/case.jpg)
 
 ### Photos
 ![](img/tq_p.jpg)
 ![](img/cont.jpg)
 ![](img/opt.jpg)
 ![](img/3d.jpg)
-![](img/cases.png)
-![](img/caseb.png)
-![](img/mcu.png)
+![](img/cases.jpg)
+![](img/caseb.jpg)
+![](img/mcu.jpg)
 
 ![](img/x.png)
 ![](img/y.png)
