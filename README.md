@@ -16,7 +16,7 @@
 ### Confirmed settings
 
 |Printer|Nozzle|Layer|
-|-|-|-|-|
+|-|-|-|
 |Bambu Lab P1S|0.2 mm|0.10mm|
 |Bambu Lab P1S|0.4 mm|0.20mm|
 
