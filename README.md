@@ -39,8 +39,8 @@
 ## Optional
 |||
 |-|-|
-|Board sample|1||
-|Board sample (no screw needed)|1||
+|3DP Board sample|1||
+|3DP Board sample (no screw needed)|1||
 
 > [!TIP]
 > Rotation is not smooth when no encoder is used.
