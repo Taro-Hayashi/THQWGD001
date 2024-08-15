@@ -24,10 +24,10 @@
 
 ||||
 |-|-|-|
-|THQWGD001 Shaft|1||
-|THQWGD001 Wheel|1||
-|THQWGD001 Base|1||
-|THQWGD001 cover|1||
+|THQWGD001 Shaft|1|THQWGD001_shaft.stl|
+|THQWGD001 Wheel|1|THQWGD001_wheel.stl|
+|THQWGD001 Base|1|THQWGD001_base.stl|
+|THQWGD001 cover|1|THQWGD001_cover.stl|
 |Wheel Encoder|1|11mm|
 |M2 screws|2|5mm or 6mm|
 |M2 nuts|2||
@@ -92,8 +92,8 @@ code
 ## Required
 ||||
 |-|-|-|
-|Shaft|1||
-|Wheel|1||
+|Shaft|1|killer_whale_shaft_v1.stl|
+|Wheel|1|killer_whale_wheel_v1.stl|
 |Wheel Encoder|1|11mm|
 |M2 screws|3|
 |M2 Spacer|1|8mm|
