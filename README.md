@@ -58,16 +58,16 @@ code
 
 > [!WARNING]
 > When using this case, attach the XIAO RP2040 with a 2.5mm high pin header or similar.
-  
+
 ![](img/case.jpg)
 
 ### Photos
-![](img/tq_p.jpg)
 ![](img/cont.jpg)
-![](img/opt.jpg)
 ![](img/mcu.jpg)
 ![](img/cases.jpg)
 ![](img/caseb.jpg)
+![](img/casefront.jpg)
+![](img/caseside.jpg)
 
 ![](img/3d.jpg)
 ![](img/x.png)
