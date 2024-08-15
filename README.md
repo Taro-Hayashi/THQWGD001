@@ -36,15 +36,6 @@
 > [!NOTE]
 > Shaft should be printed horizontally for durability.
 
-## Optional
-|||
-|-|-|
-|3DP Board sample|1||
-|3DP Board sample (no screw needed)|1||
-
-> [!TIP]
-> Rotation is not smooth when no encoder is used.
-
 ## KiCad footprint
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad
 
@@ -54,7 +45,7 @@ Firmware
 - https://github.com/Taro-Hayashi/THQWGD001/releases/download/1.1/tarohayashi_thqwgd001_xiaorp2040_vial.uf2
 - https://github.com/Taro-Hayashi/THQWGD001/releases/download/1.1/tarohayashi_thqwgd001_rp2040zero_vial.uf2
 
-> [!NOTE]
+> [!CAUTION]
 > When using RP2040-Zero, pin headers or pin sockets must be at least 3.5 mm high.
 
 code
@@ -64,6 +55,9 @@ code
 
 ### Case
 - Github https://github.com/Taro-Hayashi/THQWGD001/tree/main/stl
+
+> [!WARNING]
+> When using this case, attach the XIAO RP2040 with a 2.5mm high pin header or similar.
   
 ![](img/case.jpg)
 
