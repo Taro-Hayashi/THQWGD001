@@ -27,14 +27,18 @@
 |THQWGD001 Shaft|1|THQWGD001_shaft.stl|
 |THQWGD001 Wheel|1|THQWGD001_wheel.stl|
 |THQWGD001 Base|1|THQWGD001_base.stl|
-|THQWGD001 cover|1|THQWGD001_cover.stl|
 |Wheel Encoder|1|11mm|
 |M2 screws|2|5mm or 6mm|
 |M2 nuts|2||
 
-
 > [!NOTE]
 > Shaft should be printed horizontally for durability.
+
+## Optional
+||||
+|-|-|-|
+|THQWGD001 cover|1|THQWGD001_cover.stl|
+
 
 ## KiCad footprint
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad
