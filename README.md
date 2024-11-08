@@ -27,7 +27,7 @@
 |THQWGD001 Shaft|1|THQWGD001_shaft.stl|
 |THQWGD001 Wheel|1|THQWGD001_wheel.stl|
 |THQWGD001 Base|1|THQWGD001_base.stl|
-|Wheel Encoder|1|11mm|
+|[Wheel Encoder](https://www.aliexpress.com/item/1005005353854113.html)|1|11mm|
 |M2 screws|2|5mm or 6mm|
 |M2 nuts|2||
 
