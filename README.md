@@ -1,4 +1,4 @@
-# 1U Wheel Encoder THQWGD001 with Click
+# 1U Wheel Encoder THQWGD001 with Clickn([日本語（note）](https://note.com/taro_hayashi/n/nf608af2136d1))
 
 ![](img/main_c.jpg)
 
