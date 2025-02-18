@@ -52,7 +52,7 @@
 
 ## Files
 
-- https://github.com/Taro-Hayashi/THQWGD001/tree/main/step/THQWGD001
+- GitHub https://github.com/Taro-Hayashi/THQWGD001/tree/main/step/THQWGD001
 - Printables https://www.printables.com/model/949835-1u-wheel-encoder-thqwgd001
 - Maker World https://makerworld.com/en/models/550355#profileId-468693
 
@@ -89,6 +89,7 @@
 
 # PCB Sample
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/PCB_sample
+  
 ![](img/sample.jpg)
 ![](img/usage.jpg)
 
