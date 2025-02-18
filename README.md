@@ -83,7 +83,7 @@
 ## Footprints and Symbol
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad/8.0/
 
-![](img/footprint_c.jpg)
+![](img/footprint.jpg)
 
 ![](img/size.jpg)
 
