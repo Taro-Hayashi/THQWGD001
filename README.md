@@ -7,8 +7,8 @@
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Taro-Hayashi/THQWGD001">THQWGD001C</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://x.com/w_vwbw">Taro Hayashi</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
-[!NOTE]
-[Models are adjusted for 0.2mm nozzle.]
+> [!NOTE]
+> Models are adjusted for 0.2mm nozzle.
 
 ## Required
 
@@ -34,8 +34,8 @@
 
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad/8.0/
 
-[!NOTE]
-[As clearance is required for mounting, use THQWGD001 (without a click) if two units are to be placed side by side in the same direction]
+> [!NOTE]
+> As clearance is required for mounting, use THQWGD001 (without a click) if two units are to be placed side by side in the same direction
 
 ![](img/footprint_c.jpg)
 
@@ -54,8 +54,8 @@
 - Printables https://www.printables.com/model/949835-1u-wheel-encoder-thqwgd001
 - Maker World https://makerworld.com/en/models/550355#profileId-468693
 
-[!NOTE]
-[Models are adjusted for 0.2mm nozzle.]
+> [!NOTE]
+> Models are adjusted for 0.2mm nozzle.
 
 ## Required
 
