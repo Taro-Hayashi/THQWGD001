@@ -29,8 +29,10 @@
 |M2 nuts|2||
 
 ### Assemble guide
-![](img/overall.jpg)
+
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/assemble_c.md
+
+![](img/overall.jpg)
 
 ## Footprints and Symbol
 
