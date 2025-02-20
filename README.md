@@ -1,4 +1,5 @@
-# 1U Wheel Encoder THQWGD001 with Click([日本語（note）](https://note.com/taro_hayashi/n/nf608af2136d1))
+# 1U Wheel Encoder THQWGD001 with Tatctile Button
+([日本語 / detailed notes](https://note.com/taro_hayashi/n/nf608af2136d1))
 
 ![](img/main_c.jpg)
 
@@ -24,7 +25,7 @@
 |Base|1|THQWGD001C_base.stp|
 |Cover|1|THQWGD001C_cover.stp|
 |[Wheel Encoder](https://www.aliexpress.com/item/1005005353854113.html)|1|11mm|
-|[Tactile Switch](https://www.aliexpress.com/item/1005004045168083.html)|1|6x6x7mm|
+|[Tactile Button](https://www.aliexpress.com/item/1005004045168083.html)|1|6x6x7mm|
 |M2 screws|2|5mm or 6mm|
 |M2 nuts|2||
 
