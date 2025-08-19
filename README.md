@@ -29,6 +29,8 @@
 |M2 screws|2|5mm or 6mm|
 |M2 nuts|2||
 
+![](<div class="sketchfab-embed-wrapper"> <iframe title="1U Wheel Encoder THQWGD001C" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/067b4fc318444a588b1404efb08ccb41/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/1u-wheel-encoder-thqwgd001c-067b4fc318444a588b1404efb08ccb41?utm_medium=embed&utm_campaign=share-popup&utm_content=067b4fc318444a588b1404efb08ccb41" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> 1U Wheel Encoder THQWGD001C </a> by <a href="https://sketchfab.com/TaroHayashi?utm_medium=embed&utm_campaign=share-popup&utm_content=067b4fc318444a588b1404efb08ccb41" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> TaroHayashi </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=067b4fc318444a588b1404efb08ccb41" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>)
+
 ### Assemble guide
 
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/assemble_c.md
