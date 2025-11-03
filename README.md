@@ -25,7 +25,7 @@
 |Base|1|THQWGD001C_base.stp|
 |Cover|1|THQWGD001C_cover.stp|
 |[Wheel Encoder](https://www.aliexpress.com/item/1005005353854113.html)|1|11mm|
-|[Tactile Button](https://www.aliexpress.com/item/1005004045168083.html)|1|6x6x7mm|
+|[Tactile Button](https://www.aliexpress.com/w/wholesale-B3F%2525252d1062.html)|1|6x6x7mm|
 |M2 screws|2|5mm or 6mm|
 |M2 nuts|2||
 
