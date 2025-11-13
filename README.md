@@ -36,9 +36,6 @@
 
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad/8.0/
 
-> [!NOTE]
-> As clearance is required for mounting, use THQWGD001 (without a click) if two units are to be placed side by side in the same direction
-
 ![](img/footprint_c.jpg)
 
 ![](img/size_c.jpg)
