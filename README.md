@@ -1,7 +1,7 @@
 # 1U Wheel Encoder THQWGD001 with Tatctile Button
 ([日本語（note）](https://note.com/taro_hayashi/n/nf608af2136d1))
 
-![](img/main_c.jpg)
+![](img/test.jpg)
 
 ## Files
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/step/THQWGD001C
