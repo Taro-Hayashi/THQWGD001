@@ -17,7 +17,8 @@
 |-|-|-|
 |Shaft|1|THQWGD001C_shaft.stp|
 |Spacer|1|THQWGD001C_spacer.stp|
-|Wheel|1|THQWGD001C_wheel.stp|
+|Curve wheel|1|THQWGD001C_wheel_curve.stp|
+|Flat wheel|1|THQWGD001C_wheel_flat.stp|
 |Base|1|THQWGD001C_base.stp|
 |Cover|1|THQWGD001C_cover.stp|
 |[Wheel Encoder](https://www.aliexpress.com/item/1005005353854113.html)|1|11mm|
@@ -61,7 +62,8 @@
 
 ||||
 |-|-|-|
-|Wheel|1|THQWGD001_wheel.stp|
+|Curve wheel|1|THQWGD001_wheel_curve.stp|
+|Flat wheel|1|THQWGD001_wheel_flat.stp|
 |Shaft|1|THQWGD001_shaft.stp|
 |Base|1|THQWGD001_base.stp|
 |Cover|1|THQWGD001_cover.stp|
