@@ -35,7 +35,7 @@
 
 ## Footprints and Symbol
 
-- https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad/8.0/
+- https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad/
 
 ![](img/footprint_c.jpg)
 
@@ -75,7 +75,7 @@
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/assemble.md
 
 ## Footprints and Symbol
-- https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad/8.0/
+- https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad/
 
 ![](img/footprint.jpg)
 
