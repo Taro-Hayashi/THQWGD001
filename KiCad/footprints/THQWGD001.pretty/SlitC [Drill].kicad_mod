@@ -70,17 +70,6 @@
 	)
 	(attr smd)
 	(fp_rect
-		(start -4.25 -8.75)
-		(end 4.25 8.75)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill none)
-		(layer "Dwgs.User")
-		(uuid "013faac6-a5c5-479b-9bda-89331d7472a2")
-	)
-	(fp_rect
 		(start -3 -8.75)
 		(end 3 9.25)
 		(stroke
@@ -120,16 +109,16 @@
 		(uuid "f60a34f7-53eb-46e2-8f0f-fb071044d571")
 	)
 	(pad "" np_thru_hole oval
-		(at 0.25 -6.7 180)
-		(size 18.86 1)
-		(drill oval 18.86 1)
+		(at 0.445 -6.7 180)
+		(size 19.21 1)
+		(drill oval 19.21 1)
 		(layers "F&B.Cu" "*.Mask")
 		(uuid "d0f5ad4c-a222-473c-8fbd-26994f416a37")
 	)
 	(pad "" np_thru_hole oval
-		(at 0.25 6.7 180)
-		(size 18.86 1)
-		(drill oval 18.86 1)
+		(at 0.445 6.7 180)
+		(size 19.21 1)
+		(drill oval 19.21 1)
 		(layers "F&B.Cu" "*.Mask")
 		(uuid "fd200286-99d5-40bb-b44f-b2020e7eb3c5")
 	)
@@ -141,7 +130,7 @@
 		(uuid "a73c7968-1b66-40ae-b861-fdb6b56eea8e")
 	)
 	(pad "" np_thru_hole oval
-		(at 9.18 0 90)
+		(at 9.55 0 90)
 		(size 14.4 1)
 		(drill oval 14.4 1)
 		(layers "F&B.Cu" "*.Mask")
