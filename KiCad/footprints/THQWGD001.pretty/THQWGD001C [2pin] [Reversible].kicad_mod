@@ -844,7 +844,6 @@
 		(uuid "5e084eac-da88-4465-9df1-9628dd7eb739")
 		(effects
 			(font
-				(face "ほにゃ字Re")
 				(size 1 1)
 				(thickness 0.1)
 			)
@@ -931,7 +930,6 @@
 		(uuid "16dd70b4-1d45-40bf-9ec8-b0f21ecfba1a")
 		(effects
 			(font
-				(face "ほにゃ字Re")
 				(size 1 1)
 				(thickness 0.1)
 			)
